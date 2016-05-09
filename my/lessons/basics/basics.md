@@ -8,7 +8,7 @@ lang: my
 
 Penyediaan, Jenis Data Asas dan Operasi.
 
-## Kandungan
+## Isi Kandungan
 
 - [Penyediaan](#penyediaan)
 	- [Pemasangan Elixir](#pemasangan-elixir)
@@ -26,7 +26,7 @@ Penyediaan, Jenis Data Asas dan Operasi.
 	- [Interpolasi String](#interpolasi-string)
 	- [Perangkaian String](#perangkaian-string)
 
-## Setup
+## Penyediaan
 
 ### Pemasangan Elixir
 
