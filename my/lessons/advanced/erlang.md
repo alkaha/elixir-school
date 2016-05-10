@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Kesalingbolehgunaan(Interoperability) Dengan Erlang
+title: Kesalingbolehgunaan Dengan Erlang
 category: advanced
 order: 1
 lang: my
 ---
 
-Salah satu faedah tambahan daripada membina di atas ErlangVM ialah lambakan pustaka sedia ada yang tersedia untuk kita.  Kesalingbolehgunaan(Interoperability) mengupayakan kita untuk menuilkan(leverage) pustaka-pustaka tersebut dan pustaka rasmi Erlang daripada kod Elixir kita.  Di dalam pelajaran ini kita akan melihat bagaimana untuk mencapai kefungsian di dalam pustaka rasmi dan juga pustaka-pustaka pihak ketiga Erlang.  
+Salah satu faedah tambahan daripada membina di atas ErlangVM ialah lambakan
+pustaka sedia ada yang tersedia untuk kita.  Kesalingbolehgunaan dengan Erlang
+mengupayakan kita untuk mengambil faedah dari pustaka-pustaka tersebut dan pustaka rasmi Erlang daripada kod Elixir kita.  Di dalam pelajaran ini kita akan melihat bagaimana untuk mencapai kefungsian di dalam pustaka rasmi dan juga pustaka-pustaka pihak ketiga Erlang.
 
 ## Isi Kandungan
 
@@ -42,7 +44,7 @@ Sila lihat [Erlang Reference Manual](http://erlang.org/doc/apps/stdlib/) untuk m
 
 ## Pakej Erlang
 
-Di dalam pelajaran lepas kita telah melihat Mix dan cara-cara menguruskan komponen-komponen sokongan(dependencies).  Pustaka Erlang juga boleh diuruskan dengan cara yang sama.  Jika pustaka Erlang yang diperlukan itu masih belum dimasukkan ke dalam [Hex](https://hex.pm), anda boleh membuat rujukan terus ke repositori git:
+Di dalam pelajaran lepas kita telah melihat Mix dan cara-cara menguruskan komponen-komponen sokongan.  Pustaka Erlang juga boleh diuruskan dengan cara yang sama.  Jika pustaka Erlang yang diperlukan itu masih belum dimasukkan ke dalam [Hex](https://hex.pm), anda boleh membuat rujukan terus ke repositori git:
 
 ```elixir
 def deps do
@@ -61,7 +63,7 @@ png = :png.create(#{:size => {30, 30},
 
 ## Perbezaan Nyata
 
-Oleh kerana sekarang kita telah tahu bagaimana untuk menggunakan pustaka Elixir kita patut melihat beberapa isu yang didatangkan oleh kesalingbolehgunaan dengan Erlang. 
+Oleh kerana sekarang kita telah tahu bagaimana untuk menggunakan pustaka Elixir kita patut melihat beberapa isu yang didatangkan oleh kesalingbolehgunaan dengan Erlang.
 
 ### Atom
 
@@ -144,4 +146,4 @@ Erlang:
 11
 ```
 
-Itu sahaja!  Menuilkan kelebihan Erlang dari dalam aplikasi Elixir adalah cukup mudah dan secara tidak lansung menggandakan jumlah pustaka yang tersedia untuk kita.
+Itu sahaja!  Mengambil faedah dari kelebihan Erlang dari dalam aplikasi Elixir adalah cukup mudah dan secara tidak lansung menggandakan jumlah pustaka yang tersedia untuk kita.
