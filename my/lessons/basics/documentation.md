@@ -8,19 +8,19 @@ lang: my
 
 Mendokumentasi kod Elixir.
 
-## Kandungan
+## Isi Kandungan
 
 - [Pencatatan](#pencatatan)
-  - [Dokumentasi Inline](#inline-documentation)
-  - [Menjana Dokumentasi Modul](#documenting-modules)
-  - [Menjana Dokumentasi Fungsi](#documenting-functions)
+  - [Dokumentasi Inline](#dokumentasi-inline)
+  - [Menjana Dokumentasi Modul](#menjana-dokumentasi-modul)
+  - [Menjana Dokumentasi Fungsi](#menjana-dokumentasi-fungsi)
 - [ExDoc](#exdoc)
   - [Pemasangan](#pemasangan)
-  - [Penjanaan Dokumentasi](#penjanaan-dokumentasi)
-- [Amalan-amalan Terbaik](#amalan--amalan-practice)
+  - [Menjana Dokumentasi](#menjana-dokumentasi)
+- [Amalan Terbaik](#amalan-terbaik)
 
 
-## Pencatatatan
+## Pencatatan
 
 Berapa banyak komen dibuat dan apa yang dikatakan sebagai dokumentasi berkualiti masih hebat diperdebatkan di dalam dunia pengaturcaraan.  Walaupun begitu, kita masih boleh bersetuju bahawa dokumentasi adalah penting untuk kita dan juga mereka yang bekerja dengan kod asas kita.
 

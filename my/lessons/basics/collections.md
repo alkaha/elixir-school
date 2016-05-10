@@ -8,7 +8,7 @@ lang: my
 
 List, tuples, keywords, maps, dicts dan functional combinators.
 
-## Kandungan
+## Isi Kandungan
 
 - [List](#list)
 	- [Perangkaian List](#perangkaian-list)

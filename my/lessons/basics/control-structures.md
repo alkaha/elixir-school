@@ -8,7 +8,7 @@ lang: my
 
 Dalam pelajaran ini kita akan melihat struktur kawalan yang dibekalkan oleh ELixir.
 
-## Kandungan
+## Isi Kandungan
 
 - [`if` dan `unless`](#if-dan-unless)
 - [`case`](#case)
